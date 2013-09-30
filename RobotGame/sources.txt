@@ -1,0 +1,8 @@
+explosion.aiff
+http://www.freesound.org/people/timgormly/sounds/170146/
+
+shoot.wav 
+http://www.freesound.org/people/jobro/sounds/35686/
+
+shoot.aiff
+http://www.freesound.org/people/timgormly/sounds/170161/
